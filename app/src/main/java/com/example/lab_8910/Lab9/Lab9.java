@@ -7,10 +7,8 @@ import android.widget.Button;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
+import com.example.lab_8910.Lab9.SQLite.SQLite;
 import com.example.lab_8910.R;
 
 public class Lab9 extends AppCompatActivity {

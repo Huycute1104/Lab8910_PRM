@@ -18,7 +18,7 @@
             android:name=".Lab9.RoomDatabase"
             android:exported="false" />
         <activity
-            android:name=".Lab9.SQLite"
+            android:name=".Lab9.SQLite.SQLite"
             android:exported="false" />
         <activity
             android:name=".Lab10.Lab10"
